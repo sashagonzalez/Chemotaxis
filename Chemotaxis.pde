@@ -4,7 +4,7 @@ Bacteria [] colony;
 Food [] meals;
 void setup()
 {
-  frameRate(20);
+  frameRate(45);
   size(600, 600);
   background(0);
   colony = new Bacteria[100];
